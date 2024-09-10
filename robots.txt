@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dogimampi.github.io/sitemap.html.gz
+Sitemap: https://dogimampi.github.io/app/sitemap.html.gz
+Sitemap: https://dogimampi.github.io/assets/sitemap.html.gz
+Sitemap: https://dogimampi.github.io/css/sitemap.html.gz
+Sitemap: https://dogimampi.github.io/includes/sitemap.html.gz
+Sitemap: https://dogimampi.github.io/item/sitemap.html.gz
+Sitemap: https://dogimampi.github.io/src/sitemap.html.gz
